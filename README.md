@@ -22,9 +22,9 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
   <img alt="calendario da copa" src=".github/Capa.jpg" width="100%">
  
 <h1>Mobile:</h1>
-  <img alt="calendario da copa" src=".github/mobile.png" width="30%">
+  <img alt="calendario da copa" src=".github/mobile.png" width="40%">
 </p>
-
+redes
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
